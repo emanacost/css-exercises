@@ -19,10 +19,16 @@ body {
 
 .content {
   background: #e3f4ff;
+  margin: 10px auto 10px auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .button-container {
   background: #e3f4ff;
+  margin: auto auto 10px auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 button {
