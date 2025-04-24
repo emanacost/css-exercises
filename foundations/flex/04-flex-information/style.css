@@ -16,10 +16,12 @@ img {
 
 #plant-images {
   display: flex;
+  gap: 13em;
 }
 
 #plant-text {
   display: flex;
+  margin: 0px 20px;
 }
 
 #info-body {
