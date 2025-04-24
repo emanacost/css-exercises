@@ -57,3 +57,9 @@ ul {
 #div-links {
   flex: 1;
 }
+
+#right-content {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+}
