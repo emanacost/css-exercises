@@ -86,3 +86,7 @@ button.cancel {
   font-size: 22px;
   flex: 1;
 }
+
+.text {
+  margin-left: 60px;
+}
