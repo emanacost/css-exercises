@@ -75,3 +75,8 @@ button.cancel {
 .container.text {
   flex-direction: column;
 }
+
+.header {
+  font-weight: bolder;
+  font-size: larger;
+}
