@@ -72,6 +72,10 @@ button.cancel {
   display: flex;
 }
 
+.container.header {
+  gap: 14px;
+}
+
 .container.text {
   flex-direction: column;
 }
@@ -79,4 +83,5 @@ button.cancel {
 .header {
   font-weight: bolder;
   font-size: larger;
+  flex: 1;
 }
