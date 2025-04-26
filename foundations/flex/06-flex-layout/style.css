@@ -49,6 +49,7 @@ input {
 
 .footer {
   display: flex;
+  background-color: rgb(224, 224, 224);
 }
 
 .content {
