@@ -30,8 +30,15 @@ input {
 }
 
 .left-links {
-  flex: 1;
+  flex: 6;
   display: flex;
   gap: 1em;
   list-style-type: none;
+}
+
+.right-links {
+  display: flex;
+  gap: 1em;
+  list-style-type: none;
+  flex: 1;
 }
