@@ -75,6 +75,7 @@ button.cancel {
 
 .container.header {
   gap: 14px;
+  margin-bottom: -8px;
 }
 
 .container.text {
@@ -89,4 +90,8 @@ button.cancel {
 
 .text {
   margin-left: 60px;
+}
+
+.buttons {
+  margin: 18px 0px 0px 60px;
 }
